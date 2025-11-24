@@ -66,7 +66,7 @@
 <?php require('footer.php'); ?>
 ```
 
-<img src="gambar/1.png" width="500"/>
+![1](gambar/1.png)
 
 ### Pertanyaan dan Tugas
 Implementasikan konsep modularisasi pada kode program praktikum 8 tentang database,
@@ -101,19 +101,19 @@ Contoh URL: (base-domain)/user/list
 ### Jawaban:
 
 #### Tampilan Awal
-<img src="gambar/2.png" width="500"/>
+![2](gambar/2.png)
 
 #### Tambah Barang
-<img src="gambar/3.png" width="500"/>
-<img src="gambar/4.png" width="500"/>
+![3](gambar/3.png)
+![4](gambar/4.png)
 
 #### Ubah
-<img src="gambar/5.png" width="500"/>
-<img src="gambar/6.png" width="500"/>
+![5](gambar/5.png)
+![6](gambar/6.png)
 
 #### Hapus (dan bisa terlihat routingnya seperti contoh URL yang ada di Pertanyaan dan Tugas)
-<img src="gambar/7.png" width="500"/>
-<img src="gambar/8.png" width="500"/>
+![7](gambar/7.png)
+![8](gambar/8.png)
 
 #### Struktur Folder
 ```markdown
